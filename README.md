@@ -182,7 +182,7 @@ Username : johndoe added into User Repository !!!!!!!!!!!!
 #### Update User
 
 ```http
-  PUT /api/users/updateUserInfo/{userId}
+  PUT localhost:8080/api/users/updateUserInfo/{userId}
 ```
 
 | Parameter | Request Type     | Description                       |
